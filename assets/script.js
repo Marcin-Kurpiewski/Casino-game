@@ -28,7 +28,7 @@ function checkResult (B1, B2, B3) {
         $('#results').empty().html("You are lucky! <br> You Win");
     }
     else{
-        $('#results').empty().html("Uppsss, Your lose :( <br> Try again!");
+        $('#results').empty().html("Uppsss, You lost :( <br> Try again!");
     }
 
 }
